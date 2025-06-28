@@ -2,6 +2,8 @@ pandas
 numpy
 seaborn  
 pandas 
-scikit-learn 
+scikit-learn  
+catboost
+xgboost
 dill
 -e .
